@@ -24,6 +24,7 @@ A análise foi desenvolvida em **Python 3** (ambiente Google Colab) utilizando a
 - **Pandas:** Manipulação e estruturação dos dados (`DataFrame`).
 - **NumPy:** Suporte a operações matemáticas e vetoriais.
 - **Matplotlib & Seaborn:** Visualização de dados e geração de gráficos estatísticos.
+- **Scikit-learn:** Modelagem preditiva.
 
 ---
 
