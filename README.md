@@ -2,7 +2,7 @@
 
 # 🚗 Análise de Veículos Elétricos (EV Analytics)
 
-Este repositório contém uma **Análise Exploratória de Dados (EDA)** detalhada sobre um conjunto de dados de veículos elétricos (EVs). O objetivo principal do projeto é entender as distribuições de capacidade de bateria, autonomia (*range*), custos operacionais (carregamento e manutenção), depreciação e o impacto ambiental (redução de emissões de CO₂) em diferentes regiões e categorias de uso.
+ O objetivo principal do projeto é entender as distribuições de capacidade de bateria, autonomia (*range*), custos operacionais (carregamento e manutenção), depreciação e o impacto ambiental (redução de emissões de CO₂) em diferentes regiões e categorias de uso.
 
 ---
 
